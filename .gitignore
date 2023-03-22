@@ -1,0 +1,4 @@
+/node_modules
+/database/*
+/server/node_modules
+/client/node_modules

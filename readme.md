@@ -1,0 +1,1 @@
+Setting this up to have as a quick start for a fullstack application using React
